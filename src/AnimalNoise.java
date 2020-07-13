@@ -6,7 +6,7 @@ public class AnimalNoise {
 
 	public static void main(String[] args) {
 		Cat fluffy = new Cat();
-		System.out.println(fluffy.speak());
+		System.out.println(fluffy.makeNoise());
 		
 	}
 

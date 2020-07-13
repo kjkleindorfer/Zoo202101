@@ -43,7 +43,7 @@ public class Cat {
 		this.age = age;
 	}
 
-	public String speak() {
+	public String makeNoise() {
 		return "Meow";
 	}
 

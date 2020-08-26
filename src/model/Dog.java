@@ -1,21 +1,21 @@
 package model;
 
-//added by Kelli
+//Added by Kasey
 
-public class Cat {
+public class Dog {
 	private String name;
-	private String color;
+	private String breed;
 	private int age;
-
-	public Cat() {
+	
+	public Dog() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
 
-	public Cat(String name, String color, int age) {
+	public Dog(String name, String breed, int age) {
 		super();
 		this.name = name;
-		this.color = color;
+		this.breed = breed;
 		this.age = age;
 	}
 
@@ -27,12 +27,12 @@ public class Cat {
 		this.name = name;
 	}
 
-	public String getColor() {
-		return color;
+	public String getBreed() {
+		return breed;
 	}
 
-	public void setColor(String color) {
-		this.color = color;
+	public void setBreed(String breed) {
+		this.breed = breed;
 	}
 
 	public int getAge() {
@@ -44,7 +44,7 @@ public class Cat {
 	}
 
 	public String makeNoise() {
-		return "purr";
+		return "Bark";
 	}
 
 }

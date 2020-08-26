@@ -14,6 +14,9 @@ public class AnimalNoise {
 		Fish goldy = new Fish();
 		System.out.println(goldy.makeNoise());
 		
+		Pig bacon = new Pig();
+		System.out.println(bacon.makeNoise());
+		
 	}
 
 }

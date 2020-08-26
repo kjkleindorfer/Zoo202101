@@ -16,6 +16,9 @@ public class AnimalNoise {
 		
 		Pig bacon = new Pig();
 		System.out.println(bacon.makeNoise());
+
+		Cow beef = new Cow();
+		System.out.println(beef.makeNoise());
 		
 	}
 

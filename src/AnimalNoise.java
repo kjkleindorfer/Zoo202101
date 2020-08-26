@@ -8,6 +8,9 @@ public class AnimalNoise {
 		Cat fluffy = new Cat();
 		System.out.println(fluffy.makeNoise());
 		
+		Dog sparky = new Dog();
+		System.out.println(sparky.makeNoise());
+		
 	}
 
 }

@@ -44,7 +44,7 @@ public class Cat {
 	}
 
 	public String makeNoise() {
-		return "purr";
+		return "Meow";
 	}
 
 }

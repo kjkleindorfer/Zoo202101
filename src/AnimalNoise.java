@@ -20,6 +20,8 @@ public class AnimalNoise {
 		Cow beef = new Cow();
 		System.out.println(beef.makeNoise());
 		
+		Bird roadRunner = new Bird();
+		System.out.println(roadRunner.makeNoise());
 	}
 
 }

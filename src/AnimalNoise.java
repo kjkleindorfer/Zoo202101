@@ -22,6 +22,9 @@ public class AnimalNoise {
 		
 		Bird roadRunner = new Bird();
 		System.out.println(roadRunner.makeNoise());
+		
+		Goose snow = new Goose();
+		System.out.println(snow.makeNoise());
 	}
 
 }

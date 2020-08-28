@@ -25,6 +25,9 @@ public class AnimalNoise {
 		
 		Goose snow = new Goose();
 		System.out.println(snow.makeNoise());
+		
+		Horse jack = new Horse();
+		System.out.println(jack.makeNoise());
 	}
 
 }

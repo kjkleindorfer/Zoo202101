@@ -28,6 +28,9 @@ public class AnimalNoise {
 		
 		Horse jack = new Horse();
 		System.out.println(jack.makeNoise());
+		
+		Sheep black = new Sheep(); // Amber Schneider
+		System.out.println(black.makeNoise());
 	}
 
 }

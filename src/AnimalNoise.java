@@ -28,6 +28,9 @@ public class AnimalNoise {
 		
 		Horse jack = new Horse();
 		System.out.println(jack.makeNoise());
+		
+		Dragon reptar = new Dragon();
+		System.out.println(reptar.makeNoise());
 	}
 
 }

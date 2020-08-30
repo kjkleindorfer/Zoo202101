@@ -34,6 +34,9 @@ public class AnimalNoise {
     
 		Sheep black = new Sheep(); // Amber Schneider
 		System.out.println(black.makeNoise());
+		
+		Donkey Jenny = new Donkey();
+		System.out.println(Jenny.makeNoise());
 	}
 
 }

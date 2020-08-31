@@ -31,6 +31,9 @@ public class AnimalNoise {
 		
 		Dragon reptar = new Dragon();
 		System.out.println(reptar.makeNoise());
+		
+		Platypus bob = new Platypus();//Alek Brown
+		System.out.println(bob.makeNoise());
     
 		Sheep black = new Sheep(); // Amber Schneider
 		System.out.println(black.makeNoise());

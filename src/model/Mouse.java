@@ -1,9 +1,9 @@
 package model;
 
-public class Horse {
+public class Mouse {
 	private String name;
 	private int weight;
-	private boolean isRaceHorse;
+	private int age;
 	
 	public Mouse() {
 		super();

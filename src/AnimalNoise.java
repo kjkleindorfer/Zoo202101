@@ -31,9 +31,9 @@ public class AnimalNoise {
 		
 		Dragon reptar = new Dragon();
 		System.out.println(reptar.makeNoise());
-    
-		Sheep black = new Sheep(); // Amber Schneider
-		System.out.println(black.makeNoise());
+		
+		Snake anaconda = new Snake(); 
+		System.out.println(anaconda.makeNoise());
 	}
 
 }

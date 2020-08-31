@@ -40,12 +40,16 @@ public class AnimalNoise {
     
 		Sheep black = new Sheep(); // Amber Schneider
 		System.out.println(black.makeNoise());
+
+		Mouse sneaky = new Mouse();
+		System.out.println(sneaky.makeNoise());
 		
 		Donkey Jenny = new Donkey();
 		System.out.println(Jenny.makeNoise());
     
 		Bear yogi  = new Bear();
 		System.out.println(yogi.makeNoise());
+
 
 	}
 

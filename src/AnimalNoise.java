@@ -32,6 +32,9 @@ public class AnimalNoise {
 		Dragon reptar = new Dragon();
 		System.out.println(reptar.makeNoise());
 		
+		Lion king = new Lion(); // Chadwick Burgett
+		System.out.println(king.makeNoise());
+
 		Platypus bob = new Platypus();//Alek Brown
 		System.out.println(bob.makeNoise());
     

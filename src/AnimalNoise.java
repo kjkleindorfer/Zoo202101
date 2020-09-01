@@ -50,9 +50,8 @@ public class AnimalNoise {
 		Bear yogi  = new Bear();
 		System.out.println(yogi.makeNoise());
 
-		GuineaPig popcorn  = new GuineaPig();//Nikki McCloud
+		Guinea_Pig popcorn = new Guinea_Pig();//Nikki McCloud
 		System.out.println(popcorn.makeNoise());
 
 	}
-
 }

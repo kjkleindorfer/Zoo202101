@@ -50,11 +50,15 @@ public class AnimalNoise {
 		Bear yogi  = new Bear();
 		System.out.println(yogi.makeNoise());
 
+		Monkey bingo = new Monkey();
+		System.out.println(bingo.makeNoise());
+
 		Snake anaconda = new Snake(); 
 		System.out.println(anaconda.makeNoise());
 		
 		Tiger simba = new Tiger();
 		System.out.println(simba.makeNoise());
+
 
 	}
 

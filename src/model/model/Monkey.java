@@ -1,3 +1,4 @@
+package model;
 // New class by Paul Thairu
 // Monkey class
 public class Monkey {

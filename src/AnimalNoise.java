@@ -58,6 +58,9 @@ public class AnimalNoise {
 		
 		Tiger simba = new Tiger();
 		System.out.println(simba.makeNoise());
+		
+		Elephant dumbo = new Elephant();
+		System.out.println(dumbo.makeNoise());
 
 
 	}

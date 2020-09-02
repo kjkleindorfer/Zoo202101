@@ -38,8 +38,8 @@ public class AnimalNoise {
 		Platypus bob = new Platypus();//Alek Brown
 		System.out.println(bob.makeNoise());
     
-		Sheep black = new Sheep(); // Amber Schneider
-		System.out.println(black.makeNoise());
+		//Sheep black = new Sheep(); // Amber Schneider
+		//System.out.println(black.makeNoise());
 
 		Mouse sneaky = new Mouse();
 		System.out.println(sneaky.makeNoise());
@@ -52,6 +52,9 @@ public class AnimalNoise {
 
 		Snake anaconda = new Snake(); 
 		System.out.println(anaconda.makeNoise());
+		
+		Tiger simba = new Tiger();
+		System.out.println(simba.makeNoise());
 
 	}
 

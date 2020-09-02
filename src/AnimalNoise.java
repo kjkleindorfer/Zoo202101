@@ -59,7 +59,8 @@ public class AnimalNoise {
 		Tiger simba = new Tiger();
 		System.out.println(simba.makeNoise());
 
-
+		Chicken chick = new Chicken();
+		System.out.println(chick.makeNoise());
 	}
 
 }

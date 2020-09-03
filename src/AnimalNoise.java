@@ -62,7 +62,20 @@ public class AnimalNoise {
 		Bat batsy = new Bat();
 		System.out.println(batsy.makeNoise());
 
+		Elephant dumbo = new Elephant();
+		System.out.println(dumbo.makeNoise());
+		
+		Chicken feathers = new Chicken();
+		System.out.println(feathers.makeNoise());
 
+		Llama penny = new Llama();
+		System.out.println(penny.makeNoise());
+
+		Cricket jimminy = new Cricket();
+		System.out.println(jimminy.makeNoise());
+    
+    Mosquito small = new Mosquito();
+		System.out.println(small.makeNoise());
 	}
 
 }

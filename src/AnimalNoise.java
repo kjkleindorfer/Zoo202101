@@ -62,9 +62,11 @@ public class AnimalNoise {
 		Elephant dumbo = new Elephant();
 		System.out.println(dumbo.makeNoise());
 
-		Mosquito small = new Mosquito();
+		Cricket jimminy = new Cricket();
+		System.out.println(jimminy.makeNoise());
+    
+    Mosquito small = new Mosquito();
 		System.out.println(small.makeNoise());
-
 	}
 
 }

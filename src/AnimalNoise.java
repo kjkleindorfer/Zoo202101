@@ -61,6 +61,9 @@ public class AnimalNoise {
 		
 		Elephant dumbo = new Elephant();
 		System.out.println(dumbo.makeNoise());
+		
+		Chicken feathers = new Chicken();
+		System.out.println(feathers.makeNoise());
 
 
 	}

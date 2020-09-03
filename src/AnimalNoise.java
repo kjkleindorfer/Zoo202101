@@ -64,6 +64,9 @@ public class AnimalNoise {
 
 		Cricket jimminy = new Cricket();
 		System.out.println(jimminy.makeNoise());
+    
+    Mosquito small = new Mosquito();
+		System.out.println(small.makeNoise());
 	}
 
 }

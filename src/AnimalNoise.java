@@ -65,7 +65,14 @@ public class AnimalNoise {
 		Chicken feathers = new Chicken();
 		System.out.println(feathers.makeNoise());
 
+		Llama penny = new Llama();
+		System.out.println(penny.makeNoise());
 
+		Cricket jimminy = new Cricket();
+		System.out.println(jimminy.makeNoise());
+    
+    Mosquito small = new Mosquito();
+		System.out.println(small.makeNoise());
 	}
 
 }

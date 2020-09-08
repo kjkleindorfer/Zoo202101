@@ -76,6 +76,10 @@ public class AnimalNoise {
     
     Mosquito small = new Mosquito();
 		System.out.println(small.makeNoise());
+
+Koala myKoala = new Koala();
+		System.out.println(myKoala.makeNoise());
+
 	}
 
 }

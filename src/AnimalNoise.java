@@ -80,6 +80,8 @@ public class AnimalNoise {
 Koala myKoala = new Koala();
 		System.out.println(myKoala.makeNoise());
 
+		Rat splinter = new Rat();
+		System.out.println(splinter.makeNoise());
 	}
 
 }
